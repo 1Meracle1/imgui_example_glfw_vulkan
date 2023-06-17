@@ -1,9 +1,0 @@
-/home/qamosu/dev/c++/gui/learn/imgui/examples/example_glfw_vulkan/CMakeFiles/example_glfw_vulkan.dir
-/home/qamosu/dev/c++/gui/learn/imgui/examples/example_glfw_vulkan/CMakeFiles/edit_cache.dir
-/home/qamosu/dev/c++/gui/learn/imgui/examples/example_glfw_vulkan/CMakeFiles/rebuild_cache.dir
-/home/qamosu/dev/c++/gui/learn/imgui/examples/example_glfw_vulkan/binary_dir/CMakeFiles/edit_cache.dir
-/home/qamosu/dev/c++/gui/learn/imgui/examples/example_glfw_vulkan/binary_dir/CMakeFiles/rebuild_cache.dir
-/home/qamosu/dev/c++/gui/learn/imgui/examples/example_glfw_vulkan/binary_dir/src/CMakeFiles/glfw.dir
-/home/qamosu/dev/c++/gui/learn/imgui/examples/example_glfw_vulkan/binary_dir/src/CMakeFiles/update_mappings.dir
-/home/qamosu/dev/c++/gui/learn/imgui/examples/example_glfw_vulkan/binary_dir/src/CMakeFiles/edit_cache.dir
-/home/qamosu/dev/c++/gui/learn/imgui/examples/example_glfw_vulkan/binary_dir/src/CMakeFiles/rebuild_cache.dir
