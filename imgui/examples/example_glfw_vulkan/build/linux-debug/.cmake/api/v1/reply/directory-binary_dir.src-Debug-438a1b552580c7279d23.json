@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "binary_dir/src",
+		"source" : "/home/qamosu/dev/c++/gui/learn/glfw/src"
+	}
+}
